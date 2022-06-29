@@ -3,8 +3,8 @@
 
 ## Before you run it
 
-In order to run the code, you need to 
-- Have a (Free) account created at https://infura.io/
+In order to run the code, you need to have a (Free) account created at https://infura.io/
+Once you have an account: 
 - Create New Project; 
     - Under "Product" select "Ethereum"
     - Enter any "Project Name"
